@@ -3,7 +3,7 @@
     I am Jayant Khanna, a front-end web developer currently making my way to a full stack developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
 </i>
 
-## Home page
+## Index
 
 When you open the website at top you will have nav bar with following options:<br>
 
