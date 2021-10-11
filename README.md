@@ -46,7 +46,7 @@ When you open the website at top you will have nav bar with following options:<b
 - It has 6 Sections out of which most notable are:
     - Courses: It shows a folder of all certificates of courses I have done
     - My hobbies: takes you to my instagram page
-    - Cybersecurity: After you enter required information you can downlaod a txt file with  certain number of password combination searc your password in it, If you find your password in there you might wanna change it
+    - Cybersecurity: After you enter required information you can downlaod a txt file with  certain number of password combination search your password in it, If you find your password in there you might wanna change it
 ## Private space
 - It is a personal section where i can upload and edit my database
 - On backend i have made a new file storage system much like google drive where i can upload all my important documents and then download, edit or delete them when needed 
